@@ -1,0 +1,145 @@
+header ul{
+    background-color:black;
+}
+
+header ul li{
+    color:white;
+    list-style:none;
+    display:inline-block;
+    padding-right:30px;
+    line-height:40px;
+}
+
+.main-container{
+    width:95%;
+    margin:0 auto;
+}
+
+main img{
+    width:100%;
+}
+
+.right{
+    float:right;
+    width:25%;
+    margin-bottom:40px;
+}
+
+h1{
+    border-left:5px solid black;
+    border-bottom:2px solid black;
+    padding-left:5px;
+}
+
+.graybox{
+    background-color:lightgray;
+    width:100%;
+    text-align:center;
+}
+
+.graybox img{
+    width:190px;
+    margin:40px 20px -20px 20px;
+}
+
+.graybox .graybox_pic{
+    display:inline-block;
+}
+
+.left{
+    float:left;
+    width:60%;
+    margin-bottom:40px;
+    padding-left:25px;
+}
+
+.left h2{
+    border-bottom:5px dotted black;
+    padding-left:20px;
+}
+
+.left ul li{
+    list-style:none;
+}
+
+footer{
+    clear:both;
+    width:100%;
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1{
+    margin-top:30px;
+    margin-bottom:20px;
+    border-left:4px red solid;
+    background-color:#f1f1f1;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:15px;
+    width:1000px;
+    font-size:20px;
+}
+
+
+
+form{
+   
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;
+    border-radius:10px;
+    width:1000px;
+}
+
+
+
+form div{
+    padding:15px;
+}
+
+
+
+
+.submit{
+    border:1px solid lightgray;
+    padding:4px 10px;
+    color:white;
+    background-color:#bfbfbf;
+    border-radius:5px;
+    border-bottom:solid 2px gray;
+}
+
+
+
+
+.kiji{
+    border-radius:5px;
+    margin:10px;
+    background-color:#fbfbfb;
+    width:1000px;
+    border:3px #ebebeb solid;
+}
+
+
+h3{
+    border-bottom:2px solid #ebebeb;
+}
+
+.comments{
+    border-bottom:2px solid #ebebeb;
+}
