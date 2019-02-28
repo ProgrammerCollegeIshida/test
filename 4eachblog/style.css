@@ -1,0 +1,36 @@
+#nav{
+    background-color:black;
+}
+
+#nav ul li{
+    color:white;
+    list-style:none;
+    display:inline;
+    padding:50px;
+}
+
+#content{
+    float:left;
+    width:50%;
+}
+
+.article2{
+    background-color:darkgray;
+}
+
+.article2 img{
+    width:150px;
+}
+
+
+
+#sidebar{
+    float:right;
+    width:30%;
+}
+
+#footer{
+    clear:both;
+    background-color:black;
+    color:white;
+}
