@@ -1,0 +1,19 @@
+package jp.co.internous.action;
+
+public class Inheritance extends Class{
+	public void cheque(){
+		System.out.println("cheque");
+	}
+
+	public void kick(){
+		System.out.println("Kick");
+	}
+
+	public void block(){
+		System.out.println("block");
+	}
+
+	public void dip(){
+		System.out.println("dip");
+	}
+}

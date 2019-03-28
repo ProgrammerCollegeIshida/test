@@ -1,0 +1,9 @@
+public interface Interface{
+	public abstract void kick();
+
+	public abstract void cheque();
+
+	public abstract void block();
+
+	public abstract void wrestle();
+}

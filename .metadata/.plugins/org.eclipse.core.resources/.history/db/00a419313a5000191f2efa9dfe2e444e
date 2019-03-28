@@ -1,0 +1,25 @@
+package jp.co.internous.action;
+
+public class Instantiation {
+
+	public static void main(String[] args) {
+
+Class instance0 = new Class();
+instance0.name = "Simon Bird";
+instance0.age = 35;
+instance0.phoneNumber = "000-0000-0000";
+instance0.nationality = "British";
+System.out.println(instance0.name);
+System.out.println(instance0.age);
+
+Class instance1 = new Class();
+instance1.name = "Joe Thomas";
+instance1.age = 35;
+instance1.phoneNumber = "111-1111-1111";
+instance1.nationality = "British";
+System.out.println(instance1.name);
+System.out.println(instance1.age);
+
+	}
+
+}

@@ -1,0 +1,21 @@
+package jp.co.internous.action;
+
+public class Class {
+	public void punch(){
+		System.out.println("Punch");
+	}
+
+	public void block(){
+		System.out.println("Block");
+	}
+
+	public void roll(){
+		System.out.println("Roll");
+	}
+
+	public void slip(){
+		System.out.println("Slip");
+	}
+
+
+}

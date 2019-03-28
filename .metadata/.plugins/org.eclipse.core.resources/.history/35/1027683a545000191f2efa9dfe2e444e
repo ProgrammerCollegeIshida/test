@@ -1,0 +1,12 @@
+package jp.co.internous.action;
+
+public class Capsulation {
+
+	public static void main(String[] args) {
+		Class capsule = new Class(19);
+
+		capsule.setAge(33);
+		System.out.println(capsule.getAge());
+	}
+
+}

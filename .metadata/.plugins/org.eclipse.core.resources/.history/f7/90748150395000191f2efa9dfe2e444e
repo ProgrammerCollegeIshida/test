@@ -1,0 +1,15 @@
+package jp.co.internous.action;
+
+public class Instantiation {
+
+	public static void main(String[] args) {
+Class instance = new Class();
+instance.name = "Simon Bird";
+instance.age = 35;
+
+System.out.println(instance.name);
+System.out.println(instance.age);
+
+	}
+
+}

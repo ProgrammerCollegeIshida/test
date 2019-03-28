@@ -1,0 +1,15 @@
+package jp.co.internous.action;
+
+
+public interface Inheritance{
+
+public abstract void method0();
+
+public abstract void method1();
+
+public abstract void method2();
+
+public abstract void method3();
+
+
+}

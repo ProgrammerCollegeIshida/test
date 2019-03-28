@@ -1,0 +1,12 @@
+package jp.co.internous.action;
+
+public class Instantiation {
+
+	public static void main(String[] args) {
+
+Class instance0=new Class("Alex");
+System.out.println(instance0.name);
+System.out.println(instance0.age);
+
+}
+}

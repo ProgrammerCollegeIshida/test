@@ -1,0 +1,15 @@
+package jp.co.internous.action;
+
+
+public interface Interface{
+
+public abstract void punch();
+
+public abstract void block();
+
+public abstract void roll();
+
+public abstract void slip();
+
+
+}

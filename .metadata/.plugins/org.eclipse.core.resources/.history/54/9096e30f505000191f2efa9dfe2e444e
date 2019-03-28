@@ -1,0 +1,28 @@
+package jp.co.internous.action;
+
+public class Class {
+	public String name=null;
+	public int age=0;
+
+	public Class(){}
+
+	public Class(String name, int age){
+		this.name=name;
+		this.age=age;
+	}
+
+	public Class(String name){
+		this.name=name;
+		this.age=0;
+	}
+
+	public Class(int age){
+		this.name="名前なし";
+		this.age=age;
+	}
+
+	public Class(int age, String name){
+		this.name=name;
+		this.age=age;
+	}
+}
